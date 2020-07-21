@@ -1,0 +1,470 @@
+/* Large Screen  */
+
+@media only screen and (min-width: 1366px) and (max-width: 1500px) {
+    
+.main-menu {
+    padding: 60px 0 0 45px;
+}
+.hero-content {
+	margin-top: -130px;
+}
+    
+
+ .hero-content h2 {
+	font-size: 28px;
+    margin: 20px 0 30px;
+}   
+
+.header-btn a {
+	padding: 15px 40px 16px 40px;
+}
+    
+.section-padding .container-fluid , .section-padding-2 .container-fluid {
+	padding-left: 45px;
+	padding-right: 45px;
+}   
+.padding-35-row-col .row , .padding-25-row-col .row {
+	margin-right: -15px;
+	margin-left: -15px;
+}    
+.padding-35-row-col .row div[class^="col-"] , .padding-25-row-col .row div[class^="col-"] {
+	padding-left: 15px;
+	padding-right: 15px;
+}    
+.core-feature-inner {
+	padding: 20px 15px 20px 15px;
+}
+.seo-all-wrap , .support-all-wrap {
+	padding: 0px 0;
+}
+.section-title-2 p {
+	width: 81%;
+}    
+.section-title-2 h2 {
+	font-size: 40px;
+}    
+.section-title h2 {
+	font-size: 50px;
+}    
+.slider-area {
+	height: 650px;
+}    
+    
+    
+    
+    
+    
+    
+    
+}
+
+
+/* Laptop Screen  */
+
+@media only screen and (min-width: 1200px) and (max-width: 1365px) {
+    
+    .main-menu {
+    padding: 60px 0 0 45px;
+}
+.hero-content {
+	margin-top: -130px;
+}
+    
+.slider-area {
+	height: 650px;
+}
+
+.hero-content h2 {
+	font-size: 25px;
+    margin: 20px 0 30px;
+}   
+    
+.section-padding .container-fluid , .section-padding-2 .container-fluid {
+	padding-left: 45px;
+	padding-right: 45px;
+}   
+.padding-35-row-col .row , .padding-25-row-col .row {
+	margin-right: -15px;
+	margin-left: -15px;
+}    
+.padding-35-row-col .row div[class^="col-"] , .padding-25-row-col .row div[class^="col-"] {
+	padding-left: 15px;
+	padding-right: 15px;
+}    
+.core-feature-inner {
+	padding: 20px 15px 20px 15px;
+}
+.section-title-2 p {
+	width: 66%;
+}    
+.section-title-2 h2 {
+	font-size: 40px;
+}    
+.section-title h2 {
+	font-size: 50px;
+}        
+.core-feature-inner h3 {
+	font-size: 16px;
+}    
+.header-btn a {
+	padding: 15px 40px 16px 40px;
+}    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+}
+
+
+/* desktop :992px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    
+        .main-menu {
+    padding: 60px 0 0 45px;
+}
+.hero-content {
+	margin-top: 0px;
+}
+    
+.slider-area {
+	height: 650px;
+}
+    
+
+ .hero-content h2 {
+	font-size: 25px;
+}   
+    
+.section-padding .container-fluid , .section-padding-2 .container-fluid {
+	padding-left: 45px;
+	padding-right: 45px;
+}   
+.padding-35-row-col .row , .padding-25-row-col .row {
+	margin-right: -15px;
+	margin-left: -15px;
+}    
+.padding-35-row-col .row div[class^="col-"] , .padding-25-row-col .row div[class^="col-"] {
+	padding-left: 15px;
+	padding-right: 15px;
+}    
+.core-feature-inner {
+	padding: 20px 15px 20px 15px;
+    min-height: 270px;
+}
+.section-title-2 p {
+	width: 66%;
+}    
+.section-title-2 h2 {
+	font-size: 40px;
+}    
+.section-title h2 {
+	font-size: 50px;
+}        
+.core-feature-inner h3 {
+	font-size: 16px;
+}    
+.header-btn a {
+	padding: 17px 35px 18px 35px;
+}    
+.hero-content h2 {
+	margin: 25px 0 30px;
+}    
+.rating-reason span {
+	padding: 7px 12px;
+}   
+.section-title-2.text-center.pb-90 {
+	padding-bottom: 50px;
+}    
+.section-title.text-center.pb-90 {
+	padding-bottom: 50px;
+}    
+    
+    
+    
+    
+    
+    
+    
+    
+}
+
+
+/* Tablet :768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    
+
+.main-menu {
+    padding: 60px 0 0 45px;
+}
+.hero-content {
+	margin-top: 0px;
+}
+    
+.slider-area {
+	height: 550px;
+} 
+    
+    
+.hero-content h2 {
+	font-size: 22px;
+}   
+    
+.section-padding .container-fluid , .section-padding-2 .container-fluid {
+	padding-left: 45px;
+	padding-right: 45px;
+}   
+.padding-35-row-col .row , .padding-25-row-col .row {
+	margin-right: -15px;
+	margin-left: -15px;
+}    
+.padding-35-row-col .row div[class^="col-"] , .padding-25-row-col .row div[class^="col-"] {
+	padding-left: 15px;
+	padding-right: 15px;
+}    
+.core-feature-inner {
+	padding: 20px 15px 20px 15px;
+    min-height: 270px;
+}
+.section-title-2 p {
+	width: 66%;
+}    
+.section-title-2 h2 {
+	font-size: 40px;
+}    
+.section-title h2 {
+	font-size: 45px;
+}        
+.core-feature-inner h3 {
+	font-size: 16px;
+}    
+.header-btn a {
+	padding: 17px 35px 18px 35px;
+}    
+.hero-content h2 {
+	margin: 25px 0 30px;
+}    
+.rating-reason span {
+	padding: 7px 12px;
+}   
+.section-title-2.text-center.pb-90 {
+	padding-bottom: 50px;
+}    
+.section-title.text-center.pb-90 {
+	padding-bottom: 50px;
+}    
+.seo-content {
+	margin-left: 20px;
+} 
+.support-wrap , .seo-wrap {
+	min-height: 420px;
+}    
+    
+.support-lists {
+    right: 38px;
+    width: 40px;
+    top: 75%;
+}    
+    
+    
+    
+    
+    
+    
+}
+
+
+/* Large Mobile :480px. */
+
+@media only screen and (max-width: 767px) {
+  
+.slider-area {
+	height: 480px;
+}
+.hero-content {
+	margin-top: 0;
+}
+.main-menu {
+    padding: 30px 0 0 15px;
+}
+    
+.hero-content h2 {
+	font-size: 20px;
+    line-height: 30px;
+}   
+.main-menu nav ul li {
+    margin: 0 15px 0 0;
+}    
+.section-padding .container-fluid , .section-padding-2 .container-fluid {
+	padding-left: 15px;
+	padding-right: 15px;
+}   
+.padding-35-row-col .row , .padding-25-row-col .row {
+	margin-right: -15px;
+	margin-left: -15px;
+}    
+.padding-35-row-col .row div[class^="col-"] , .padding-25-row-col .row div[class^="col-"] {
+	padding-left: 15px;
+	padding-right: 15px;
+}    
+.core-feature-inner {
+	padding: 20px 15px 20px 15px;
+    min-height: 270px;
+}
+.section-title-2 p {
+	width: 100%;
+}    
+.section-title-2 h2 {
+	font-size: 23px;
+    letter-spacing: 0;
+    margin: 0 0 15px;
+}    
+.section-title h2 {
+	font-size: 25px;
+}
+.demo-item-content h4 {
+	font-size: 20px;
+	margin: 15px 0 0;
+}
+.core-feature-inner h3 {
+	font-size: 16px;
+}    
+.header-btn a {
+	padding: 10px 25px 11px 25px;
+    font-size: 15px;
+}
+.hero-content h2 {
+	margin: 15px 0 20px;
+}    
+.rating-reason span {
+	padding: 7px 12px;
+}   
+.section-title-2.text-center.pb-90 {
+	padding-bottom: 30px;
+}    
+.section-title.text-center.pb-90 {
+	padding-bottom: 30px;
+}    
+.seo-content {
+	margin-left: 0px;
+} 
+.support-wrap , .seo-wrap {
+	min-height: auto;
+}
+.seo-wrap {
+	padding: 0px 15px 0px 15px;
+}
+.footer-content h3 {
+	font-size: 21px;
+}    
+.core-feature-inner {
+	min-height: auto;
+}    
+.satisfied-area.pb-100 {
+	padding-bottom: 20px;
+}    
+.pt-120 {
+	padding-top: 50px;
+}
+.demo-section.pb-75 {
+	padding-bottom: 0;
+}
+.demo-section.pb-80 {
+	padding-bottom: 0px;
+}
+.footer-area {
+	padding: 50px 0px 50px;
+}
+.footer-content h5::after {
+	right: -50px;
+}    
+.footer-content h5::before {
+	left: -50px;
+}    
+.support-all-wrap {
+	padding: 40px 15px;
+}    
+.support-content {
+	margin-right: 15px;
+	width: 100%;
+	margin-left: inherit;
+}    
+.seo-content h2, .support-content h2 {
+	font-size: 24px;
+	letter-spacing: 0;
+	margin: 0 0 15px;
+}    
+.seo-content p, .support-content p {
+	font-size: 18px;
+	margin: 0 0 0px;
+}    
+.support-wrap {
+	background-position: 85% 50%;
+}    
+    
+.view-demo-area > a {
+    right: 200px;
+    transform: translate(200px, 0);
+    font-size: 12px;
+    width: 60px;
+    height: 60px;
+    padding: 10px 10px 10px;
+  }    
+    
+ .view-demo-area .view-demo-aside-active {
+    transform: translate(200px, 0);
+    width: 200px;
+    padding: 40px 15px;
+  }   
+   
+.view-demo-area .view-demo-aside-active .view-demo-wrap .view-demo-tab-list a {
+    margin-bottom: 10px;
+  }    
+.demo-item .demo-item-img {
+    margin: 0 0 15px;
+  }    
+   .support-lists {
+    right: 15px;
+    width: 50px;
+    top: 75%;
+  } 
+    
+    
+    
+}
+
+
+/* small mobile :320px. */
+
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    
+.single-slider-5 {
+	top: 56%;
+}
+.hero-img-wrap {
+	height: 550px;
+}    
+.view-demo-area > a {
+    right: 400px;
+    transform: translate(400px, 0);
+  }    
+  .view-demo-area .view-demo-aside-active {
+    transform: translate(400px, 0);
+    width: 400px;
+}   
+    
+    
+    
+}
